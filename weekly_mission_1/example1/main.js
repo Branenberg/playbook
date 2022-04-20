@@ -1,5 +1,3 @@
-node main.js
-
 // 1. Creación de un objeto con propiedades
 
 let myCar = new Object(); // Creación de un objeto
